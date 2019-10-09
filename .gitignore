@@ -49,11 +49,3 @@ sysinfo.txt
 *.unitypackage
 
 # End of https://www.gitignore.io/api/unity
-
-# Git LFS までの暫定。自分で作っていないものは管理外にする
-Assets/Plugins*
-Assets/Robot Kyle.meta
-Assets/Robot Kyle/Materials*
-Assets/Robot Kyle/Model*
-Assets/Robot Kyle/Textures*
-Assets/RPG_FPS_game_assets_industrial*
